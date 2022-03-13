@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "464478540048",
+    "project_id": "cloud-firestore-ecb8a",
+    "storage_bucket": "cloud-firestore-ecb8a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:464478540048:android:6e6e0a1b1beecfdfa29595",
+        "android_client_info": {
+          "package_name": "com.example.cloud_firestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "464478540048-rtkanscajer0ecif6rgu2l8o6i2euq0i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCR8z5DwW1ts7T4rh8_zXYu7m6mRJ6ltRs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "464478540048-rtkanscajer0ecif6rgu2l8o6i2euq0i.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "464478540048-cpfmjsevs9n2q8dj6u14fjsc50kj2dve.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.cloudFirestore"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

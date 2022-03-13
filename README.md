@@ -1,6 +1,6 @@
 # cloud_firestore_app
 
-Flutter x cloud_firestoreのサンプルアプリ
+cloud_firestoreのFlutterデモアプリ
 
 ## 画像
 

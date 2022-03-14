@@ -55,6 +55,7 @@ class _UserPageState extends State<UserPage> {
             height: 45.0,
             child: ElevatedButton(
                 onPressed: () {
+                  Navigator.pop(context);
                   // 保管するデータの確定
                   final user = User(
                     name: controllerName.text,
